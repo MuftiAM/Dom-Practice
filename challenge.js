@@ -24,6 +24,14 @@
 //     console.log("ask me personally which day")
 // }
 
+// convert the while loop above to do...while loop (whoose body run once at least)
+
+// let i=0;
+// do {
+//     console.log("Mufti")
+//     i++
+// } while (i < 5);
+
 // // convert the above code to switch from if/else if
 
 // let today = "Friday"
@@ -46,3 +54,30 @@
 //     default:
 //         break;
 // }
+
+// // code below from chatGPT
+
+// function multiplyAndPrint(num1, num2) {
+//     // Multiply the two numbers
+//     var result = num1 * num2;
+  
+//     // Print the result
+//     console.log("The result is: " + result);
+  
+//     // Return the result if needed
+//     return result;
+//   }
+  
+//   // Example usage:
+//   var number1 = 5;
+//   var number2 = 10;
+//   var product = multiplyAndPrint(number1, number2);
+
+// // write a function that takes two numbers
+
+// function multiply (num1, num2){
+// let result = num1 * num2;
+// return result;
+// }
+// let sum = multiply (5,6)
+// console.log(sum)
