@@ -82,11 +82,19 @@
 // let sum = multiply (5,6)
 // console.log(sum)
 
-// write a simple program that calculates your salary 
-// and tax if salary is 500 and tax is 20%
-// what is the take home salary
+// // write a simple program that calculates your salary 
+// // and tax if salary is 500 and tax is 20%
+// // what is the take home salary
 
-let salary = 500;
-let tax = .2;
-let takeHomeSalary =salary - (salary * tax);
-console.log("Your Take Home Salary is " + takeHomeSalary)
+// let salary = 500;
+// let tax = .2;
+// let takeHomeSalary =salary - (salary * tax);
+// console.log("Your Take Home Salary is " + takeHomeSalary)
+
+// // if we have 1000 laptops and 1009 bags 
+// // how many bags remains if each laptop has one bag
+
+// let totalLaptops = 1000;
+// let totalBags = 1009;
+// let remainder = totalBags % totalLaptops
+// console.log("The remainder of bags is " + remainder)
